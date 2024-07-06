@@ -44,6 +44,7 @@ I am an artificial intelligence engineering student from Prince of Songkhla Univ
 - ROS (Robot Operating System)
 - Linux
 - YOLO (You Only Look Once)
+- Plotly Dashboard
 
 ### 📂 Projects:
 - [Turtle bot with ROS Project](https://github.com/MoboCoE/turtlebot_ROS)
